@@ -127,10 +127,10 @@ DAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sun
 DAY_EXTENSIOS = ["rd", "th", "st"]
 
 
-email_id = "19it41sharmila@mailamengg.com"
-email_id_password = "190429@mec"
+email_id = ""
+email_id_password = "c"
 
-city = "Mamallapuram"
+city = ""
 startmin = int(datetime.datetime.now().hour)
 
 
